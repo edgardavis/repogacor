@@ -23,8 +23,8 @@
       },
       {  
          "type":"CNAME",
-         "host":"01HN3JF2MR10HGST661GGTWT2A",
-         "pointsTo":"shopify_verification_guntur126.artos",
+         "host":"shopify_verification_guntur126.artos",
+         "pointsTo":"01HN3JF2MR10HGST661GGTWT2A",
          "ttl":3600
       }
    ]

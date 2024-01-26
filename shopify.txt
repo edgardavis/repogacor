@@ -24,7 +24,7 @@
       {  
          "type":"CNAME",
          "host":"01HN3JF2MR10HGST661GGTWT2A",
-         "pointsTo":"dns-verification.shopify.com",
+         "pointsTo":"shopify_verification_guntur126.artos",
          "ttl":3600
       }
    ]
